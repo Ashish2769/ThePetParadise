@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.LoginUser, .RegistrationUser{
+    background-image: url('/public/images/LoginBackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 100vh;
+}
+
+.LoginForm{
+  background: rgba(129, 159, 228, 0.2);
+  border-radius: 30px;
+  
+}
+
